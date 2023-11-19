@@ -9,4 +9,5 @@ Just another basic program to get the understanding of how to store and retrive 
 - Install Xammp for local webserver hosting , start Apache and MySQL.
 - Make sure the project folder you are working with is in HTDOCS of XAMPP folder.
 - now go to localhost/phpmyadmin and make sure create the table using mysql in a new database (similiar to "krish123_super" here)
-- After creating the database and tables , you are ready to go. Go to localhost/projectfolder and Test it.
+- After creating the database and tables , you are ready to go. 
+- For executing a file, for example: consider the file 'home.php' => type 'localhost/foldername/home.php'.
